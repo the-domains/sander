@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Sander Datema]]></title>
+        <description><![CDATA[Sander Datema]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 12 Dec 2015 19:03:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Durftevragen]]></title>
+            <description><![CDATA[<article><h1>Durftevragen</h1><p>Hoe de wereld anders zou kunnen worden.</p></article>]]></description>
+            <link>undefineddurftevragen/index.html</link>
+            <guid isPermaLink="false">a50c9158-8767-4965-9c44-ab77bd5f8407</guid>
+            <pubDate>Sat, 12 Dec 2015 19:03:34 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
