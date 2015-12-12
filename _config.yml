@@ -1,0 +1,28 @@
+name: Sander
+favicon: null
+layout_spectrum: 0.9628017742652446
+typography_spectrum: 0.32207907526753843
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.4035085516516119
+  lightness: 0.30775948450900614
+  saturation: 0.7107915931846946
+  rhythmicContrast: 0.25850060279481113
+purpose: []
